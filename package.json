@@ -1,7 +1,7 @@
 {
   "name": "unlerp",
   "version": "1.0.0",
-  "description": "opposite of lerp; give range between two bounds",
+  "description": "opposite of lerp; get normalized range between two bounds",
   "main": "index.js",
   "license": "MIT",
   "author": "Matt DesLauriers <dave.des@gmail.com>",
