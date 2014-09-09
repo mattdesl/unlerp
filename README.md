@@ -4,7 +4,7 @@
 
 [![frozen](http://badges.github.io/stability-badges/dist/frozen.svg)](http://github.com/badges/stability-badges)
 
-Opposite of lerp; gets the range between a lower and upper bound. 
+Opposite of [lerp](https://www.npmjs.org/package/lerp); gets the range between a lower and upper bound. 
 
 ```js
 var range = require('unlerp')
